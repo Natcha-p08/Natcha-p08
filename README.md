@@ -13,19 +13,14 @@ As someone eager to grow in the tech field, I’m constantly sharpening my skill
 ---
 
 ## Skills & Interests 🧑‍💻  
-- **Programming Languages**: Python, Java, C/C++, HTML, CSS
-- **Development Areas**: Web Development (Front-end), Neural Networks, Data Mining  
-- **Tools I Enjoy**: Git, Visual Studio Code, Jupyter Notebook  
-- **Topics I Explore**: Environment Data, Machine Learning Models, Visualization  
-
+- **Programming Languages**: Python, Java, C/C++
+- **Machine Learning & AI**: TensorFlow, PyTorch, scikit-learn, Deep Learning
+- **Specialized Knowledge**: Natural Language Processing (NLP - In Progress), Neural Networks
+- **Data Science & Analysis**: Data Analysis (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn)
+- **Mobile Development**: Android Application Development (Android Studio, Java)
+- **Web Development**: HTML5, CSS3
 ---
 
-## My Goals 🏆  
-🌱 **Learn**: I aim to master advanced software engineering techniques and refine my data science expertise.  
-✨ **Create**: Build impactful, real-world projects that combine creativity and functionality.  
-🤝 **Collaborate**: Work with like-minded individuals to exchange ideas and grow together.  
-
----
 
 ## Connect With Me 🌐  
 📧 Email: p.parpear@gmail.com
